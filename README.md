@@ -6,10 +6,10 @@
 
 ###Test2 Header3
 
-[code] (code)
+*[code](code)
 
-[data] (data)
+*[data](data)
 
-[images] (images)
+*[images](images)
 
-[reference] (reference)
+*[reference](reference)
